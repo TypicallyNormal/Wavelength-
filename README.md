@@ -4,7 +4,7 @@
 
 **Wavelength v0.0**
 
-Wavelength is my personal web space — a place for projects, games, experiments, art, music, photography, and whatever else I decide to build.
+Wavelength is my personal web space. A place for projects, games, experiments, art, music, photography, and whatever else I decide to build.
 
 It's not meant to be a traditional portfolio or résumé.
 
