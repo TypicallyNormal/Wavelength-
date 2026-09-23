@@ -1,0 +1,34 @@
+body {
+    background: #100b24;
+    color: #8ab4ff;
+    font-family: monospace;
+    text-align: center;
+    margin: 0;
+}
+
+main {
+    padding-top: 80px;
+}
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #aaa0b8;
+}
+
+#wave {
+    display: block;
+    width: 90%;
+    max-width: 1000px;
+    height: 200px;
+    margin: 60px auto 0;
+}
+
+#waveLine {
+    fill: none;
+    stroke: #ff9999;
+    stroke-width: 4;
+}
